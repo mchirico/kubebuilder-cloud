@@ -1,0 +1,7 @@
+apiVersion: cloud.cwxstat.io/v1
+kind: Deployment
+metadata:
+  name: deployment-sample
+spec:
+  # Add fields here
+  foo: bar

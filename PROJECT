@@ -1,0 +1,7 @@
+domain: cwxstat.io
+repo: github.com/mchirico/kubebuilder-cloud
+resources:
+- group: cloud
+  kind: Deployment
+  version: v1
+version: "2"
